@@ -1,3 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700;800&display=swap');
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+html, body {
+  min-height: 100%;
+  scroll-behavior: smooth;
+}
+
+body {
+  background-image:#ff0000;background-image:  
+    radial-gradient(at 80% 11%, hsl(222, 81.8%, 21.6%) 0, transparent 46%);
+}
