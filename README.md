@@ -5,4 +5,7 @@ features:
 - Github API Integration.
 - CMS For projects section
 
-Test Contribution
+## TODOS
+- Setup routing
+- Add layout
+- Install axios
