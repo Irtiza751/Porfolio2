@@ -6,6 +6,6 @@ features:
 - CMS For projects section
 
 ## TODOS
-- Setup routing
-- Add layout
-- Install axios
+- [ ] Setup routing
+- [ ] Add layout
+- [ ] Install axios
